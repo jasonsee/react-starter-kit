@@ -2,7 +2,7 @@
 
 // Database connect
 var argv = require('optimist').argv;
-var port = argv.port || $port$;
+var port = argv.port || 9999;
 
 module.exports = function (grunt) {
 
