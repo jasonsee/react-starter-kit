@@ -26,6 +26,8 @@ We use Grunt to manage many development, compilation, and build
 tasks. For a list of all tasks available in this project, see the
 Gruntfile. Simply run `grunt` to get started.
 
+To specify a port for your server `grunt --port 1234`
+
 ## Style Guide
 
 1. Keep it under 80 columns
